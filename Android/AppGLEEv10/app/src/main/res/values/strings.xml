@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AppGLEE v1.0</string>
+    <string name="label_user">User Mail</string>
+    <string name="label_password">Password</string>
+    <string name="label_start_session">Login</string>
+    <string name="label_newUser"><u>Join now</u></string>
+    <string name="label_forgot_password">Forgot your password?</string>
+    <string name="label_welcome">Hello! Idendify yourself to login</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mauro de Jesus</string>
+    <string name="nav_header_subtitle">mauro.francisco@ipcbcampus.pt</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Logout</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_events">My Events</string>
+    <string name="menu_settings">Settings</string>
+    <string-array name="city">
+        <item>Castelo Branco</item>
+        <item>Covilhã</item>
+        <item>Lisboa</item>
+        <item>Porto</item>
+        <item>Coimbra</item>
+        <item>Bragança</item>
+    </string-array>
+</resources>

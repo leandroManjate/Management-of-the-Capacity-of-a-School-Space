@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/backgroud_blue.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/backgroud_red.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/bg_overlay.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/ic_add_item.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/ic_add_photo.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/ic_back.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_downward_24.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/ic_person.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/ic_phone.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/ic_remove_item.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/ic_save.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/ic_ubicacion.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.1485" />
+        <entry key="app/src/main/res/layout/activity_detail_event.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/activity_details_my_events.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/activity_events_shelf.xml" value="0.25677083333333334" />
+        <entry key="app/src/main/res/layout/activity_list_event_by_category.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_start.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_user_registration.xml" value="0.25677083333333334" />
+        <entry key="app/src/main/res/layout/app_bar_start.xml" value="0.25677083333333334" />
+        <entry key="app/src/main/res/layout/content_start.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/custom_toast_error.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/custom_toast_ok.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/dropdownitem.xml" value="0.25677083333333334" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.25677083333333334" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.25677083333333334" />
+        <entry key="app/src/main/res/layout/fragment_my_events.xml" value="0.25677083333333334" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.25677083333333334" />
+        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.25677083333333334" />
+        <entry key="app/src/main/res/layout/image_slider_layout_item.xml" value="0.25677083333333334" />
+        <entry key="app/src/main/res/layout/item_categories.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/item_detail_my_events.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_event.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/item_events.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/item_events_by_category.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/item_events_shelf.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_my_selected_events.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/nav_header_start.xml" value="0.25677083333333334" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.25677083333333334" />
+        <entry key="app/src/main/res/menu/start.xml" value="0.25677083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
